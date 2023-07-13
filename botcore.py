@@ -2,7 +2,7 @@ import requests
 
 
 ########## ACCOUNT CONFIG ##########
-ig_email = 'your@email.com'
+ig_email = 'ur@email.com'
 ig_username = 'username'
 ig_password = 'password'
 ig_firstname = 'firstname'
